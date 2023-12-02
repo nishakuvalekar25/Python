@@ -14,3 +14,7 @@ def myfunction():
 class MyClass:
     def __init__(self):
         pass
+
+        
+# Output
+# num is less than or equal to 10
