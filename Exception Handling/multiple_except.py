@@ -1,3 +1,6 @@
+# For each try block, there can be zero or more except blocks. 
+# Multiple except blocks allow us to handle each exception differently.
+
 try:
     
     even_numbers = [2,4,6,8]
